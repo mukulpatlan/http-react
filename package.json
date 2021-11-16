@@ -1,5 +1,6 @@
 {
   "name": "react-the-complete-guide",
+  "homepage": "http://mukulpatlan.github.io/http-react/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
